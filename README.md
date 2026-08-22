@@ -279,6 +279,6 @@ Once you have named your database "osTicket", in osTicket on your web browser, i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-You may now see that osTicket is fully configured in the web browser. You may also see some data being compiled in "HeidiSQL". 
+You may now see that osTicket is fully configured in the web browser. You may also see some data being compiled in "HeidiSQL". osTicket is now setup. 
 </p>
 <br />
