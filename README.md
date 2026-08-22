@@ -151,7 +151,7 @@ Finally, we may open up osTicket. To do so, inside "IIS", on the left side, clic
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+We will now have to install some recommended extensions. We will need to open up "IIS Manager" again. Within "IIS", on the left side open the "sites" tab, then the "Default Web Site" tab. Click on the "osTicket" tab. On the right side, open up the "PHP Manager". 
 </p>
 <br />
 
@@ -159,7 +159,7 @@ dwdawdawdawdawdad
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+With the "PHP Manager" open, underneath the "PHP Extensions", click on "Enable or disable an extension". 
 </p>
 <br />
 
