@@ -63,7 +63,7 @@ Once in the C: drive, create a new folder and name it "PHP".
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+Once the "PHP" folder is created in the C: drive, extract the contents of the file named "php-7.3.8-nts-Win32-VC15x-86" into the "PHP" folder you created. 
 </p>
 <br />
 
