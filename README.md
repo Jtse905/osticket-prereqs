@@ -255,7 +255,7 @@ We will need to create a new database to connect to for osTicket. Right click th
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-WDAWDAWDAWD 
+Name your database "osTicket" and click "OK". 
 </p>
 <br />
 
@@ -263,7 +263,7 @@ WDAWDAWDAWD
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+Once you have named your database "osTicket", in osTicket on your web browser, input "osTicket" inside the "MySQL Database" line. Then input information for the "SQL Username" and "SQL Password".
 </p>
 <br />
 
