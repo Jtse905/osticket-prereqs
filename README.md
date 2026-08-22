@@ -135,7 +135,7 @@ After the server restart, we need to install the osTicket files. To do so, open 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+Once the "upload" folder is inside the "wwwroot" folder, we need to change name of the "upload" folder. Right click the "upload" folder and change the name to "osTicket".  
 </p>
 <br />
 
