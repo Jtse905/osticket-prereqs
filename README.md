@@ -215,7 +215,7 @@ With the properties window open, click on the "security" tab. With the "security
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+d
 </p>
 <br />
 
