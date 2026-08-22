@@ -263,7 +263,7 @@ Name your database "osTicket" and click "OK".
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once you have named your database "osTicket", in osTicket on your web browser, input "osTicket" inside the "MySQL Database" line. Then input information for the "SQL Username" and "SQL Password".
+Once you have named your database "osTicket", in osTicket on your web browser, input "osTicket" inside the "MySQL Database" line. Then input information for the "SQL Username" and "SQL Password". Then towards the bottom of the page, click "Install now". 
 </p>
 <br />
 
@@ -271,7 +271,7 @@ Once you have named your database "osTicket", in osTicket on your web browser, i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+Click 
 </p>
 <br />
 
