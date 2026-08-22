@@ -119,7 +119,7 @@ Inside the "PHP" folder, select the application "php-cgi". Click open and click 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+Once the new PHP Version is installed, restart the osTicket server inside "IIS Manager" by right clicking on "osTicket-Window" and clicking "stop". Wait a couple seconds, and than right click "osTicket-Window" again and click on "start". 
 </p>
 <br />
 
