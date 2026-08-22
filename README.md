@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1215" height="846" alt="1" src="https://github.com/user-attachments/assets/b3347a1b-8a19-4dfe-94e7-b7824f331b9c" />
 </p>
 <p>
 To begin, we must first install Internet Information Services (IIS) in Windows. To do so, open up the control panel. Once the control panel is open, on the left side click on "Turn Windows features on or off".
@@ -36,7 +36,7 @@ To begin, we must first install Internet Information Services (IIS) in Windows. 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1350" height="809" alt="2" src="https://github.com/user-attachments/assets/49451dc3-c139-4b87-8f23-1824665b1106" />
 </p>
 <p>
 With the Windows Features window open, scroll down until you find "Internet Information Services". Check the box next to it, and open "World Wide Web Services". Then open "Application Development Features", and check the box next to "CGI". 
@@ -44,7 +44,7 @@ With the Windows Features window open, scroll down until you find "Internet Info
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="951" height="748" alt="4" src="https://github.com/user-attachments/assets/4c224072-e4cc-4cf0-8bcf-aba03b26b7c7" />
 </p>
 <p>
 Once IIS has been setup, we need to install "IIS URL Rewrite Module 2". Once installed, exit the window and open up your "File Explorer" and go to the C: drive. 
@@ -52,7 +52,7 @@ Once IIS has been setup, we need to install "IIS URL Rewrite Module 2". Once ins
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1239" height="840" alt="5" src="https://github.com/user-attachments/assets/58d00695-ab1c-49ba-859b-db905d440fdd" />
 </p>
 <p>
 Once in the C: drive, create a new folder and name it "PHP". 
@@ -60,7 +60,8 @@ Once in the C: drive, create a new folder and name it "PHP".
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1991" height="1059" alt="6" src="https://github.com/user-attachments/assets/c824d340-8233-48cf-ba3a-9d10d0f66f58" />
+<img width="2023" height="936" alt="7" src="https://github.com/user-attachments/assets/dd319129-a5fc-4d26-a020-9436389f909f" />
 </p>
 <p>
 Once the "PHP" folder is created in the C: drive, extract the contents of the file named "php-7.3.8-nts-Win32-VC15x-86" into the "PHP" folder you created. 
@@ -68,7 +69,7 @@ Once the "PHP" folder is created in the C: drive, extract the contents of the fi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1030" height="597" alt="8" src="https://github.com/user-attachments/assets/311a6b87-5f47-402c-ab1f-462030ba2625" />
 </p>
 <p>
 Next, we will install "Microsoft Visual C++ 2015-2022 Redistribution (x86)". 
@@ -76,7 +77,7 @@ Next, we will install "Microsoft Visual C++ 2015-2022 Redistribution (x86)".
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="927" height="655" alt="9" src="https://github.com/user-attachments/assets/3daae710-5302-4983-bd2c-062b6f4ea847" />
 </p>
 <p>
 Once "Microsoft Visual" is installed, we will need to install "MySQL Server 5.5". 
@@ -84,7 +85,7 @@ Once "Microsoft Visual" is installed, we will need to install "MySQL Server 5.5"
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2122" height="1148" alt="10" src="https://github.com/user-attachments/assets/7d5f4bde-6c2f-465f-94d3-f14db381be03" />
 </p>
 <p>
 Once "MySQL" is installed, open up "IIS Manager" in Windows. We Will now enable "PHP" within "IIS". With "IIS" open, on the left click on "osTicket-Window" under the "Connections" tab. Than click on "PHP Manager". 
