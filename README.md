@@ -167,7 +167,7 @@ With the "PHP Manager" open, underneath the "PHP Extensions", click on "Enable o
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+In "PHP Extensions", scroll down until you see "php_imap.dll". Right click it and click "enable". 
 </p>
 <br />
 
@@ -175,7 +175,7 @@ dwdawdawdawdawdad
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+Next, scroll down to "php_opcache.dll" and enable it.
 </p>
 <br />
 
@@ -183,7 +183,7 @@ dwdawdawdawdawdad
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+Now go back to osTicket in your web browser. Refresh the page to see that the extensions have been enabled. 
 </p>
 <br />
 
@@ -191,7 +191,7 @@ dwdawdawdawdawdad
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+We will now have to rename a specific file inside the osTicket folder. Go to your C: drive. Inside the C: drive, go inside the "inetpub" folder. Once inside, go into the "wwwroot" folder, then the "osTicket" folder, and finally the "include" folder. Once inside the "include" folder, scroll down until you find the "ost-sampleconfig.php" file. Remove "sample" from the name. Rename it to "ost-config.php". 
 </p>
 <br />
 
