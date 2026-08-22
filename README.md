@@ -71,7 +71,7 @@ Once the "PHP" folder is created in the C: drive, extract the contents of the fi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+Next, we will install "Microsoft Visual C++ 2015-2022 Redistribution (x86)". 
 </p>
 <br />
 
@@ -79,7 +79,7 @@ dwdawdawdawdawdad
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+Once "Microsoft Visual" is installed, we will need to install "MySQL Server 5.5". 
 </p>
 <br />
 
@@ -87,7 +87,7 @@ dwdawdawdawdawdad
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+Once "MySQL" is installed, open up "IIS Manager" in Windows. With "IIS" open, on the left click on osTicket-Window under the "Connections" tab. Than click on "PHP Manager". 
 </p>
 <br />
 
