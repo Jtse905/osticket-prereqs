@@ -223,7 +223,7 @@ Click on "Disable inheritance" and then "Remove all inherited permissions from t
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-We then will add permissions to the file. Click on "Add" in the "Advanced Security Settings" window. Towards the top click "Select a principle". Select the open window in the "Enter the object name to select" window. Type "everyone" to give everyone on the system permissions to this file, this setup is only for lab simulation. We would NOT do this in a real life scenario. With everyone typed in, click "check names". After, click okay. You may exit each window and open the osTicket web browser tab. 
+We then will add permissions to the file. Click on "Add" in the "Advanced Security Settings" window. Towards the top click "Select a principle". Select the open window in the "Enter the object name to select" window. Type "everyone" to give everyone on the system permissions to this file, this setup is only for lab simulation. We would NOT do this in a real life scenario. With everyone typed in, click "check names". After, click okay. You may exit each window and open the osTicket web browser tab, click continue.  
 </p>
 <br />
 
@@ -231,7 +231,7 @@ We then will add permissions to the file. Click on "Add" in the "Advanced Securi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+On this page, input input your information to setup your organization. Stop once you get down to "Database Settings". You will need to input an SQL Database which we will install and create.  
 </p>
 <br />
 
@@ -239,7 +239,7 @@ dwdawdawdawdawdad
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+In your "downloads folder", find and install "HeidiSQL 12.3.0.6589". Once installed, open "HeidiSQL". Here we will need to create a new SQL. To create one, click on "new" at the bottom left. 
 </p>
 <br />
 
@@ -247,7 +247,7 @@ dwdawdawdawdawdad
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+We will need to create a new database to connect to for osTicket. Right click the bolded "Unnamed" word, and click on "Create new" then click on "database". 
 </p>
 <br />
 
@@ -255,7 +255,7 @@ dwdawdawdawdawdad
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+wdawdawdawdawda 
 </p>
 <br />
 
