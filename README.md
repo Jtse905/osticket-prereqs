@@ -143,7 +143,7 @@ Once the "upload" folder is inside the "wwwroot" folder, we need to change name 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+wdawda  
 </p>
 <br />
 
