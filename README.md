@@ -39,7 +39,7 @@ To begin, we must first install Internet Information Services (IIS) in Windows. 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwadwadawdawda
+With the Windows Features window open, scroll down until you find "Internet Information Services". Check the box next to it, and open "World Wide Web Services". Then open "Application Development Features", And check the box next to "CGI". 
 </p>
 <br />
 
