@@ -127,7 +127,7 @@ Once the new PHP Version is installed, restart the osTicket server inside "IIS M
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+After the server restart, we need to install the osTicket files. To do so, open up two "File Explorer" windows. To do so, right click "File Explorer" and click "File Explorer". Do this two times. In one "File Explorer" window, navigate to your downloads and locate the your osTicket instillation files. You should see an "upload" file. In the second "File Explorer" window, navigate to the "inetpub" folder and enter it. Go to "wwwroot" file. Once inside, move the "upload" folder from your osTicket instillation files, into the "wwwroot" file. 
 </p>
 <br />
 
