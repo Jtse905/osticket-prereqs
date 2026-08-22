@@ -87,7 +87,7 @@ Once "Microsoft Visual" is installed, we will need to install "MySQL Server 5.5"
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once "MySQL" is installed, open up "IIS Manager" in Windows. With "IIS" open, on the left click on osTicket-Window under the "Connections" tab. Than click on "PHP Manager". 
+Once "MySQL" is installed, open up "IIS Manager" in Windows. We Will now enable "PHP" within "IIS". With "IIS" open, on the left click on "osTicket-Window" under the "Connections" tab. Than click on "PHP Manager". 
 </p>
 <br />
 
@@ -95,7 +95,7 @@ Once "MySQL" is installed, open up "IIS Manager" in Windows. With "IIS" open, on
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+Inside the "PHP Manager", click on "Register new PHP Version" underneath PHP Setup. 
 </p>
 <br />
 
@@ -103,7 +103,7 @@ dwdawdawdawdawdad
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+Once the "Register New PHP Version" window is open, search for the "PHP" folder that you created earlier in the C: drive. 
 </p>
 <br />
 
@@ -111,7 +111,7 @@ dwdawdawdawdawdad
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+Inside the "PHP" folder, select the application "php-cgi". Click open and click okay to register the new PHP version. 
 </p>
 <br />
 
