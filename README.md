@@ -47,7 +47,7 @@ With the Windows Features window open, scroll down until you find "Internet Info
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once IIS has been setup, we need to install "IIS URL Rewrite Module 2". 
+Once IIS has been setup, we need to install "IIS URL Rewrite Module 2". Once installed, exit the window and open up your "File Explorer" and go to the C: drive. 
 </p>
 <br />
 
@@ -55,7 +55,7 @@ Once IIS has been setup, we need to install "IIS URL Rewrite Module 2".
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+Once in the C: drive, create a new folder and name it "PHP". 
 </p>
 <br />
 
