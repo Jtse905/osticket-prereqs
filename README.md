@@ -215,7 +215,7 @@ With the properties window open, click on the "security" tab. With the "security
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-d
+Click on "Disable inheritance" and then "Remove all inherited permissions from this object". This will disable all permissions for this file. So osTicket may function properly in this lab. We would NOT do this in a real-world scenario. 
 </p>
 <br />
 
@@ -223,7 +223,7 @@ d
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+We then will add permissions to the file. Click on "Add" in the "Advanced Security Settings" window. Towards the top click "Select a principle". Select the open window in the "Enter the object name to select" window. Type "everyone" to give everyone on the system permissions to this file, this setup is only for lab simulation. We would NOT do this in a real life scenario. With everyone typed in, click "check names". After, click okay. You may exit each window and open the osTicket web browser tab. 
 </p>
 <br />
 
