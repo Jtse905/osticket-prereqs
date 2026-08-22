@@ -143,7 +143,7 @@ Once the "upload" folder is inside the "wwwroot" folder, we need to change name 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-wdawda  
+Finally, we may open up osTicket. To do so, inside "IIS", on the left side, click on osTicket. Than, on the right side, click on "Browse .80(http)". This will open up a new window on your web browser for osTicket. 
 </p>
 <br />
 
