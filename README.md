@@ -18,11 +18,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- osTicket-v1.15.8
+- PHPManagerForIIS_V1.5.0
+- HeidiSQL_12.3.0.6589
+- mysql-5.5.62-win32
+- Rewrite_amd64_en-US
+- VC_redist.x86
 
 <h2>Installation Steps</h2>
 
