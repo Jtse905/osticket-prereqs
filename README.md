@@ -199,7 +199,7 @@ We will now have to rename a specific file inside the osTicket folder. Go to you
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+On the osTicket web browser window, you can click continue to go to the next screen. Next we will have to edit security permissions for osTicket. To do so, right click on the "ost-config.php" file and click on "properties". 
 </p>
 <br />
 
@@ -207,7 +207,7 @@ dwdawdawdawdawdad
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dwdawdawdawdawdad  
+With the properties window open, click on the "security" tab. With the "security" tab open, click on "advanced" towards the bottom. 
 </p>
 <br />
 
