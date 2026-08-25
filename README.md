@@ -287,3 +287,8 @@ Once you have named your database "osTicket", in osTicket on your web browser, i
 You may now see that osTicket is fully configured in the web browser. You may also see some data being compiled in "HeidiSQL". osTicket is now setup. 
 </p>
 <br />
+
+<p>
+Project end.
+</p>
+<br />
