@@ -252,7 +252,7 @@ On this page, input input your information to setup your organization. Stop once
 <img width="1029" height="743" alt="33" src="https://github.com/user-attachments/assets/779accd4-03c5-422d-b6d0-16d96458da79" />
 </p>
 <p>
-In your "downloads folder", find and install "HeidiSQL 12.3.0.6589". Once installed, open "HeidiSQL". Here we will need to create a new SQL. To create one, click on "new" at the bottom left. 
+In your downloads folder (click file explorer -> click on downloads on the bar on the left side), find and install "HeidiSQL 12.3.0.6589". Once installed, open "HeidiSQL". Here we will need to create a new SQL. To create one, click on "new" at the bottom left. 
 </p>
 <br />
 
